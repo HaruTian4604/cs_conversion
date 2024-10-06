@@ -1,0 +1,6 @@
+total 976
+-rwxr-xr-x 1 vagrant vagrant     76 Oct  4 15:27 1.sh
+-rwxr-xr-x 1 vagrant vagrant     79 Oct  4 16:16 2.sh
+-rw-r--r-- 1 vagrant vagrant      0 Oct  4 20:51 tmp
+-rw-r--r-- 1 vagrant vagrant 985084 Oct  4 19:11 words
+-rw-r--r-- 1 vagrant vagrant     64 Oct  4 18:09 words.txt

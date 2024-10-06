@@ -1,0 +1,18 @@
+1c1
+< total 976
+---
+> total 980
+4c4,5
+< -rw-r--r-- 1 vagrant vagrant      0 Oct  4 20:51 tmp
+---
+> -rw-r--r-- 1 vagrant vagrant      0 Oct  4 20:52 difflog
+> -rw-r--r-- 1 vagrant vagrant    285 Oct  4 20:51 tmp
+1c1
+< total 976
+---
+> total 984
+4c4,5
+< -rw-r--r-- 1 vagrant vagrant      0 Oct  4 20:51 tmp
+---
+> -rw-r--r-- 1 vagrant vagrant    211 Oct  4 20:52 difflog
+> -rw-r--r-- 1 vagrant vagrant    285 Oct  4 20:51 tmp
