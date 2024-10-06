@@ -1,0 +1,5 @@
+333#! /usr/bin/env bash
+
+333set -euo pipefail
+
+333cat file.txt | grep "Hello" | sort
