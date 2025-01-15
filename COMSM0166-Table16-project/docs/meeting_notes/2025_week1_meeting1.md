@@ -5,7 +5,7 @@
 - **Time**: 13:00
 - **Duration**: 2 hours
 - **Location/Platform**: [MVB 2.1.1]
-- **Participants**: Ran Tian, Shrirang Lokhande, Mahesh Nanavare, Aya Saneh, Santiago Muriel
+- **Participants**: Haru, Shrirang, Mahesh, Aya, Santiago
 
 ---
 
