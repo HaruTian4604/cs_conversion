@@ -41,18 +41,19 @@
 
 ### Topic 2: Division of work
 #### Task Tracker
-| Task                                   | Assigned To       | Status      | Notes                                    |
-|----------------------------------------|-------------------|-------------|------------------------------------------|
-| Finalize game idea and mechanics       | [Everyone]        | In Progress | Based on voting results                  |
-| Create initial game design document    | [Name]            | In Progress | Includes story, rules, and UI sketches   |
-| Research P5.js basics                  | [Name]            | In Progress | Focus on graphics and animations         |
-| Learn user input handling in P5.js     | [Name]            | Not Started | Keyboard and mouse interaction           |
-| Build game loop prototype              | [Name]            | Not Started | Core structure for game flow             |
-| Design mood board for game visuals     | [Name]            | Not Started | Uploaded to shared drive                 |
-| Create sound and music asset list      | [Name]            | Not Started | Identify required resources              |
-| Draft Git workflow for collaboration   | [Name]            | Not Started | Guide for version control setup          |
-| Implement basic player movement        | [Name]            | Not Started | Integrate input and collision detection  |
-| Prepare for team progress review       | [Name]            | Not Started | Schedule for next meeting                |
+| Task                                     | Assigned To       | Status      | Notes                                    |
+|------------------------------------------|-------------------|-------------|------------------------------------------|
+| Finalize game idea and mechanics         | [Everyone]        | In Progress | Based on voting results                  |
+| Create initial game design document      | [Santiago]        | In Progress | Includes story, rules, and UI sketches   |
+| Research P5.js basics                    | [Everyone]        | In Progress | Focus on graphics and animations         |
+| Learn user input handling in P5.js       | [Name]            | Not Started | Keyboard and mouse interaction           |
+| Build game loop prototype                | [Name]            | Not Started | Core structure for game flow             |
+| Design mood board for game visuals       | [Name]            | Not Started | Uploaded to shared drive                 |
+| Create sound and music asset list        | [Name]            | Not Started | Identify required resources              |
+| Draft Git workflow for collaboration     | [Name]            | Not Started | Guide for version control setup          |
+| Implement basic player movement          | [Name]            | Not Started | Integrate input and collision detection  |
+| Prepare for team progress review         | [Name]            | Not Started | Schedule for next meeting                |
+| Document project process (photos/videos) | [Haru]            | In Progress | Capture teamwork and progress            |
 
 
 ---
