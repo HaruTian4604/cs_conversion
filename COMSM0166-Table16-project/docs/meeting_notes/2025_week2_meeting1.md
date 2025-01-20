@@ -63,6 +63,7 @@
 |-----------------------|-------------------|-------------|------------|
 | Upload list of games  | Everyone          | 2025-01-21  | High       |
 | Rank for other's games| Everyone          | 2025-01-21  | High       |
+| Take a group photo    | Everyone          | 2025-01-21  | High       |
 
 ---
 
