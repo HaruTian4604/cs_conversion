@@ -1,4 +1,4 @@
-# 2025 Meeting 1
+# 2025 Meeting 2
 
 ## 1. Meeting Information
 - **Week and Meeting Number**: Week 2, Meeting 2
@@ -11,7 +11,7 @@
 ---
 
 ## 2. Agenda
-- [2025 Meeting 1](#2025-meeting-1)
+- [2025 Meeting 2](#2025-meeting-2)
   - [1. Meeting Information](#1-meeting-information)
   - [2. Agenda](#2-agenda)
   - [3. Discussion Details](#3-discussion-details)
@@ -83,25 +83,25 @@
 ---
 
 ## 5. Next Meeting
-- **Date**: 2025-01-28
-- **Time**: 12:00
-- **Location**: [Chemistry Library Group Room 2]
+- **Date**: 2025-01-23
+- **Time**: 11:00-12:00 & 13:00-14:00
+- **Location**: [Chemistry Library Group Room 1 & Room 2]
 ### **Proposed Agenda (2 hours)**
 
 1. **Recap (10 minutes)**
    - Brief recap of the previous meeting and current progress.
    - Highlight the purpose of today’s meeting: decide on the final game and plan next steps.
 
-2. **Top 5 Game Discussions (40 minutes)**
-   - Each game owner gives a **5-minute summary** of their game concept and feasibility using P5.js.
+2. **Top 5 Game Discussions (30 minutes)**
+   - Each game owner gives a **1-minute summary** of their game concept and feasibility using P5.js.
    - Group discussion (pros, cons, feasibility, and alignment with team goals).
 
 3. **Final Game Decision (20 minutes)**
    - Open discussion and finalize which game to develop.
    - Ensure team agreement and resolve any major concerns.
 
-4. **Planning Next Steps (40 minutes)**
-   - **15 minutes**: Define the first development milestones.
+4. **Planning Next Steps (50 minutes)**
+   - **25 minutes**: Define the first development milestones.
      - Assign roles (e.g., design, coding, assets).
      - Set deadlines for the first prototype.
    - **15 minutes**: Identify key areas of P5.js to learn or explore based on the chosen game.
